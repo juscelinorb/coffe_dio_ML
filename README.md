@@ -71,5 +71,15 @@ A solução que você criará para o Fourth Coffee requer os seguintes recursos 
 > Conferimos então os recursos criados: 
 > O serviço de AI Azure,
 > o serviço de pesquisa e
-> a Conta de armazenamento
+> a Conta de armazenamento.
+
+
+### Criaremos o contêiner onde gardaremos os dados
+
+![Criação do Contêiner](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/conteiner.jpg)
+
+### Dados adicionados
+
+![Criação do Contêiner](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/dados_conteiner.jpg)
+
 
