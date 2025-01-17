@@ -69,9 +69,9 @@ A solução que você criará para o Fourth Coffee requer os seguintes recursos 
 
 >[!NOTE]
 > Conferimos então os recursos criados: 
-> O serviço de AI Azure,
-> o serviço de pesquisa e
-> a Conta de armazenamento.
+> O Serviço de AI Azure,
+> o Serviço de Pesquisa e
+> a Conta de Armazenamento.
 
 
 ### Criaremos o contêiner onde gardaremos os dados
@@ -82,4 +82,30 @@ A solução que você criará para o Fourth Coffee requer os seguintes recursos 
 
 ![Criação do Contêiner](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/dados_conteiner.jpg)
 
+### Vá para o Serviço de Pesquisa
+
+![Serviço de Pesquisa](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/Screenshot_1.jpg)
+
+### Importe os dados
+
+![Serviço de Pesquisa](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/Screenshot_2.jpg)
+
+### Na tela de importação faça conforme o exemplo do link escolhendo Armazenamento de Blob do Azure
+
+![Serviço de Pesquisa](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/Screenshot_3.jpg)
+
+### Prossiga escolhendo uma conexão já existente 
+
+![Serviço de Pesquisa](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/Screenshot_5.jpg)
+
+### Depois de configurado e criado vai aparecer o resultado
+
+![Serviço de Pesquisa](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/Screenshot_7.jpg)
+
+### Chegando a caixa de pesquisa
+
+![Serviço de Pesquisa](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/Screenshot_8.jpg)
+---
+
+Caso queira verificar os exemplos de pesquisas continue até o fim dos exemplos.
 
