@@ -6,12 +6,41 @@
 
 ### Então vamos seguir o seguinte percurso:
 
-*   Criar recursos do Azure
-*   Extrair dados de uma fonte de dados
-*   Enriqueça os dados com habilidades de IA
-*   Usar o indexador do Azure no portal do Azure
-*   Consultar o seu índice de pesquisa
-*   Revisar os resultados salvos em uma Loja de Conhecimento
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Etapas</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Criar recursos do Azure</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Extrair dados de uma fonte de dados</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Enriqueça os dados com habilidades de IA</td>  
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Usar o indexador do Azure no portal do Azure</td>    
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Consultar o seu índice de pesquisa</td>    
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>Revisar os resultados salvos em uma Loja de Conhecimento</td>    
+    </tr>
+  </tbody>
+</table>
+
 
 Recursos do Azure necessários
 -----------------------------
@@ -26,10 +55,8 @@ A solução que você criará para o Fourth Coffee requer os seguintes recursos 
 *   Uma **conta de armazenamento** com contêineres de blob, que armazenará documentos brutos e outras coleções de tabelas, objetos ou arquivos.
 
 
-
-### Para acessar o link do exemplo:
-
 > [!NOTE]   
-> Link do exemplo: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
 > Você poderá seguir por aqui.
+> Link do exemplo: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
+
 
