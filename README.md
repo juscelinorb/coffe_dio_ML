@@ -43,7 +43,7 @@
 
 
 Recursos do Azure necessários
------------------------------
+---
 
 A solução que você criará para o Fourth Coffee requer os seguintes recursos da sua assinatura do Azure:
 
@@ -58,5 +58,10 @@ A solução que você criará para o Fourth Coffee requer os seguintes recursos 
 > [!NOTE]   
 > Você poderá seguir por aqui.
 > Link do exemplo: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
+
+![Percorrendo processos](https://img.shields.io/badge/Percorrendo%20os%20processos:-E94D5F?style=for-the-badge)
+---
+
+### Depois de criados os recursos conforme link de exemplo acima teremos:
 
 
