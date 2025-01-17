@@ -65,4 +65,11 @@ A solução que você criará para o Fourth Coffee requer os seguintes recursos 
 
 ### Depois de criados os recursos conforme link de exemplo acima teremos:
 
+![Recursos do microsoft learning](https://github.com/juscelinorb/coffe_dio_ML/blob/main/imagens/recursos_criados.jpg)
+
+>[!NOTE]
+> Conferimos então os recursos criados: 
+> O serviço de AI Azure,
+> o serviço de pesquisa e
+> a Conta de armazenamento
 
